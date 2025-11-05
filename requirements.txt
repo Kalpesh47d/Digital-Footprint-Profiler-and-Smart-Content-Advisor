@@ -1,0 +1,13 @@
+streamlit
+pandas
+requests
+selenium
+plotly
+nltk
+google-generativeai
+pymongo
+lxml
+webdriver-manager
+kafka-python
+python-dotenv
+wordcloud
